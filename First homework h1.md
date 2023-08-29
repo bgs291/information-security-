@@ -43,3 +43,6 @@ Actions on Objectives: Achieving the attacker's goals, often involving data thef
 Defenders can enhance their security measures by aligning them with the specific phases of an adversary's attack process. 
 This approach enables measurement of performance and effectiveness, facilitating the development of investment plans to address any gaps in defensive capabilities.
 It's essentially about intelligence-driven Cyber Network Defense (CND) - making security decisions based on a deep understanding of the adversary.
+
+# h1- Install Debian 12-Bullseye virtual machine in VirtualBox.
+yes
