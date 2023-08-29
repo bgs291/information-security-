@@ -46,3 +46,5 @@ It's essentially about intelligence-driven Cyber Network Defense (CND) - making 
 
 # h1- Install Debian 12-Bullseye virtual machine in VirtualBox.
 yes
+<img width="1436" alt="Untitled" src="https://github.com/bgs291/information-security-/assets/142784195/03cc054a-4518-4c74-9fed-bbcc5033544e">
+
