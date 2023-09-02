@@ -103,8 +103,8 @@ Attacker manipulates 'id' parameter: ' UNION SELECT SLEEP(10);--
 Alters query to retrieve all 'accounts' table records.
 More malicious attacks may involve data manipulation, deletion, or stored procedure invocation.
 
-•	a) Goat. Install webgoat.
-![IMG_2234](https://github.com/bgs291/information-security-/assets/142784195/4ff80f99-484b-4583-8eb7-5ac679136f13)
+•	webgoat.
+
 
 
 
