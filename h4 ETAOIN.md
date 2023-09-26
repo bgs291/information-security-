@@ -47,9 +47,12 @@ y) This is the frequency distribution of letters in the Arabic language, along w
 ا (Alif) - 28%
 
 
-•	ي (Ya) - 11%
+•	
+ي (Ya) - 11%
 •
+
 م (Meem) - 8%
+
 
 •	و (Waw) - 7%
 •
