@@ -43,11 +43,18 @@ Introduces the concept of key length and its impact on security in cryptographic
 
 y) This is the frequency distribution of letters in the Arabic language, along with the six most common letters:
 
-•	ا (Alif) - 28%
+•	
+ا (Alif) - 28%
+
+
 •	ي (Ya) - 11%
-•	م (Meem) - 8%
+•
+م (Meem) - 8%
+
 •	و (Waw) - 7%
-•	ل (Lam) - 6%
+•
+ل (Lam) - 6%
+
 •	ن (Noon) - 5%
 
 
