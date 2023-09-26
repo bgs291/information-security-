@@ -53,6 +53,12 @@ y) This is the frequency distribution of letters in the Arabic language, along w
 
 
 
+
+
+
+
+
+
               Z) LastPass password manager.
 
 Threats it Protects Against:
