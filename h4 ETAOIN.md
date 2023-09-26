@@ -100,6 +100,8 @@ b) Demonstrate the use of a password manager.
 All Items: This page serves as a central repository for all your stored information, including passwords, notes, addresses, payment cards, and bank accounts. It allows you to view and manage all your saved data in one place.
 
 
+
+
 <img width="1188" alt="Untitled" src="https://github.com/bgs291/information-security-/assets/142784195/18373fbe-4128-4f36-85c6-6acdef686dc2">
 
 
@@ -107,6 +109,8 @@ All Items: This page serves as a central repository for all your stored informat
 
 
 Sharing Center: The Sharing Center is where you can securely share passwords and other sensitive information with trusted individuals or team members. It provides controlled access to shared items without revealing the actual data.
+
+
 
 
 
@@ -119,6 +123,8 @@ Sharing Center: The Sharing Center is where you can securely share passwords and
 
 Passwords: This section allows you to manage and organize your passwords. You can create, edit, and delete password entries, and LastPass can generate strong, unique passwords fo  you.
 
+
+
 <img width="370" alt="image" src="https://github.com/bgs291/information-security-/assets/142784195/fa0989c2-4e01-4990-be29-c8c7f1ce9deb">
 
  
@@ -126,11 +132,15 @@ Passwords: This section allows you to manage and organize your passwords. You ca
 
 Payment Cards: You can store your credit/debit card information here for quick access during online shopping. LastPass helps autofill payment details, making the checkout process more efficient.
 
+
+
 <img width="396" alt="image" src="https://github.com/bgs291/information-security-/assets/142784195/5ff91d35-0738-4485-9c5f-79f616033e2f">
  
 
 
 Security Dashboard: This feature provides an overview of your online security, including the strength of your passwords, security challenges, and suggestions for improving your digital security posture.
+
+
 
 <img width="402" alt="image" src="https://github.com/bgs291/information-security-/assets/142784195/786986e0-cf19-478c-8ebb-5e3112c6308e">
 
@@ -140,6 +150,8 @@ Security Dashboard: This feature provides an overview of your online security, i
 
 
 Emergency Access: This page allows you to designate trusted individuals who can request access to your LastPass vault in case of an emergency or if you're locked out. It ensures a secure way to share vital information when needed.
+
+
 
 <img width="414" alt="image" src="https://github.com/bgs291/information-security-/assets/142784195/3524ce2a-ee0b-44f2-86f1-b9ad952e5855">
 
