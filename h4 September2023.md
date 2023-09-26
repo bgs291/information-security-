@@ -21,12 +21,17 @@ Practical Use: Great for checking if files are the same and ensuring secure tran
 Message Authentication Codes (MACs): Like digital fingerprints with a secret key for extra security. Only those with the key can check the code.
 
 •	Särökaari 2018: Phishing trough email (video, 33 min)
+
 What is phishing?
+
 •	It is practice of sending e-mails that appear to be from reputable sources 
 •	Goal is to influence or gain personal information
 •	E-mail may contain malicious attachment or link to illegitimate site, which is designed to trick the victim to provide PII or login credentials.
 
+
+
 Why Do People Click Phishing Links?
+
 Through an experiment conducted at a university in Germany during Blackhat 2016, researchers explored the factors that lead individuals to click on dangerous links despite security concerns. They sent a non-existent link from a fictitious sender to 1200 students and observed the following 
 
 results: 
@@ -34,7 +39,10 @@ Curiosity (34%)
 Message Alignment with Expectations (27%)
 Perceived Familiarity with the Sender (16%)
 
+
+
 Goals of engagement 
+
 It’s important to define the goals of the social engineering engagements
 For example, fishing campaign goal is to steal credential or to track and measure number of clicks. 
 Protecting yourself legally by ensuring that customers clearly understand that you can only providing anonymize data.
@@ -43,6 +51,8 @@ Sender Policy Framework (SPF): Specifies authorized mail servers for a domain, r
 DomainKeys Identified Mail (DKIM): Adds digital signatures to emails, ensuring their authenticity and integrity during transmission.
 Domain-based Message Authentication, Reporting, and Conformance (DMARC): Sets email authentication policies, enhances security, and provides reporting on email delivery and authentication results to protect against email spoofing and phishing attacks. 
 Using SPF and DKIM records makes your domain more reputable and legitimate.
+
+
 
 Filtering 
 
@@ -63,6 +73,7 @@ IDN Homograph attack.
 Exploits the visual similarity of characters from different scripts to deceive users into thinking they're interacting with a legitimate website, potentially leading to phishing or fraud.
 Unicode chars are very hard to distinguish from common ASCII chars 
 Issue fixed in chrome is configurable in Firefox to detect the attacks.
+
 
 What usually work in phishing?
 
