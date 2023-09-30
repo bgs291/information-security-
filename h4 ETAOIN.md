@@ -172,6 +172,16 @@ Emergency Access: This page allows you to designate trusted individuals who can 
 
 
 
+
+
+
+
+
+
+
+
+h4 September2023
+
 X)   2.3 ONE-WAY FUNCTIONS
 
 One-Way Functions: These are essential in computer security. They're like puzzles that are easy to solve in one direction but hard to solve in reverse.
