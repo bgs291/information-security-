@@ -276,6 +276,7 @@ Keep your domains safe
 Educate and train users 
 Secure your infrastructure 
 
+
  
 a)	![IMG_2300](https://github.com/bgs291/information-security-/assets/142784195/5f79a5ec-57c2-4072-a051-ca7a4b4a13b3)
 
