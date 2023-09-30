@@ -160,6 +160,10 @@ Emergency Access: This page allows you to designate trusted individuals who can 
 
 
 
+LastPass simplifies and enhances digital security by offering a centralized platform for managing passwords and sensitive information, while also providing tools to share securely and monitor overall security health.
+
+
+
 
 
 
@@ -285,4 +289,4 @@ b)	![IMG_2301](https://github.com/bgs291/information-security-/assets/142784195/
  
 
 
-LastPass simplifies and enhances digital security by offering a centralized platform for managing passwords and sensitive information, while also providing tools to share securely and monitor overall security health.
+
