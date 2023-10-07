@@ -45,6 +45,28 @@ This approach enables measurement of performance and effectiveness, facilitating
 It's essentially about intelligence-driven Cyber Network Defense (CND) - making security decisions based on a deep understanding of the adversary.
 
 # h1- Install Debian 12-Bullseye virtual machine in VirtualBox.
-yes
+(updated in 7.10.2023)
+Installation of Debian 12:
+
+I visited the Debian website and downloaded the Debian 12 ISO image for the amd64 architecture (64-bit).
+
+I set up a Virtual Machine using VirtualBox 6 to create a new virtual machine. During the setup, I allocated resources such as CPU cores, RAM, and storage.
+
+I mounted the Debian ISO by attaching the Debian 12 ISO image to the virtual machine's virtual CD/DVD drive in my VirtualBox.
+
+I started the virtual machine, selecting the "Install" option from the Debian boot menu.
+
+I followed the installation steps, configuring language, location, keyboard layout, hostname, and network settings as per the on-screen instructions.
+
+The installation process began, and I was prompted to set up a root password and create a regular user account.
+
+Afterward, I logged in with the user credentials I had created during the installation process.
+
+For post-installation configuration, I updated the system, installed additional software, and adjusted specific settings as needed.
+
+I encountered an issue when attempting to download Debian 12 on VirtualBox 7, so I had to remove the "7" and try with VirtualBox 6, which proved successful.
+
+My Debian 12 installation in the virtual machine was now ready for use. (updated in 7.10.2023)
+
 <img width="1436" alt="Untitled" src="https://github.com/bgs291/information-security-/assets/142784195/03cc054a-4518-4c74-9fed-bbcc5033544e">
 
